@@ -33,7 +33,7 @@
   .btn_cerrar{
     text-decoration: none;
     background-color: #15496E;
-    /*border-radius: 50%;*/
+    border-radius: 70%;
     padding: 5px 8px;
     font-weight: bolder;
     position: absolute;
